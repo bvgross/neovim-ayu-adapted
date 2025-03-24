@@ -1,4 +1,4 @@
-# Neovim Ayu
+# Neovim Ayu (adpted)
 
 A colorscheme for Neovim reimplemented in lua from [ayu-vim](https://github.com/Luxed/ayu-vim).
 
